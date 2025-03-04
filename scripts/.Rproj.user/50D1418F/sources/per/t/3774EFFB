@@ -1,0 +1,26 @@
+{
+    "id": "3774EFFB",
+    "path": "~/Alissar/Drought_Exp_R_GitHub/scripts/Stat_sunflower_timepoints.R",
+    "project_path": "Stat_sunflower_timepoints.R",
+    "type": "r_source",
+    "hash": "1062007366",
+    "contents": "",
+    "dirty": false,
+    "created": 1740441715422.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "1537,33",
+        "scrollLine": "1522"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1741123294,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1741123294045,
+    "read_only": false,
+    "read_only_alternatives": []
+}

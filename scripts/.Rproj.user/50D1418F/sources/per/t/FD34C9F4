@@ -1,0 +1,26 @@
+{
+    "id": "FD34C9F4",
+    "path": "~/Alissar/Drought_Exp_R_GitHub/scripts/Fig_pannels.R",
+    "project_path": "Fig_pannels.R",
+    "type": "r_source",
+    "hash": "2870660204",
+    "contents": "",
+    "dirty": false,
+    "created": 1740437971381.0,
+    "source_on_save": false,
+    "relative_order": 3,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "288,0",
+        "scrollLine": "258"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1741123298,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1741123298203,
+    "read_only": false,
+    "read_only_alternatives": []
+}
